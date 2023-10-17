@@ -16,3 +16,7 @@ Here are some ideas to get you started:
 -->
 * 🇷🇺 I'm from Nizhnii Novgorod, Russia
 * 🇩🇪 Now I live in Munich, Germany
+* 🐍 I'm a python developer
+* 💻 i'm looking for a job
+* 📫 My e-mail: mitelkova.anna@gmail.com
+  
