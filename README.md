@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-* 🇩🇪 I live in Munich, Germany
+* 🇷🇺 I'm from Nizhnii Novgorod, Russia
+* 🇩🇪 Now I live in Munich, Germany
