@@ -2,7 +2,6 @@
 
 * 🇷🇺 I'm from Nizhnii Novgorod, Russia
 * 🇩🇪 Now I live in Munich, Germany
-* 🐍 I'm currently learning python
-* 💻 I'm looking for a job as a python developer
+* 🐍I'm looking for a job as a Python Developer
 * 📫 My e-mail: mitelkova.anna@gmail.com
   
